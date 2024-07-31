@@ -1,0 +1,8 @@
+Aspirin,80,2.5
+Paracetamol,100,3
+Cough Syrup,100,5.75
+Lozenges,100,1.75
+Ibuprofen,80,4.25
+Antacid,60,2
+Antihistamine,40,6.5
+Antibiotic,100,8.75
